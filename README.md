@@ -140,12 +140,6 @@ chmod +x script5.sh
 
 ---
 
-## 📄 License
-
-This project is submitted as part of an academic course. All shell scripts are original work done.
-
----
-
 ## 🙏 Acknowledgements
 
 - **VITyarthi by VIT Bhopal University** — for the Open Source Software course
